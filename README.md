@@ -219,7 +219,7 @@ Este projeto demonstra a aplicação prática dos seguintes conceitos:
 
 Projeto desenvolvido para fins académicos e aprendizagem de Java Swing.
 
-**Autor:** [O teu nome]
+**Autor:** Edneiser júlio
 
 ---
 
